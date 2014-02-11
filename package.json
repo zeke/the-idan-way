@@ -1,0 +1,25 @@
+{
+  "name": "the-idan-way",
+  "version": "0.0.0",
+  "description": "A talk about Idan Gazit's way of creating static web apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"no tests\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zeke/the-idan-way"
+  },
+  "keywords": [
+    "talk",
+    "demo",
+    "slideshow",
+    "harp"
+  ],
+  "author": "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zeke/the-idan-way/issues"
+  },
+  "homepage": "https://github.com/zeke/the-idan-way"
+}
